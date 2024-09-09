@@ -8,8 +8,6 @@ Edit Tasks: Modify existing tasks.
 Delete Tasks: Remove completed or unnecessary tasks.
 Responsive Design: Optimized for both desktop and mobile use.
 
-# ToDo
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
 ## Development server
