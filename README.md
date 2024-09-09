@@ -1,3 +1,12 @@
+ToDo App
+This is a simple ToDo application built with Angular, leveraging the power of CSS, HTML, and TypeScript. The app allows users to efficiently manage their daily tasks by adding, editing, and deleting them. It serves as a minimalist yet functional task management tool.
+
+Features:
+Add Tasks: Create new tasks to keep track of your to-dos.
+Edit Tasks: Modify existing tasks.
+Delete Tasks: Remove completed or unnecessary tasks.
+Responsive Design: Optimized for both desktop and mobile use.
+
 # ToDo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
